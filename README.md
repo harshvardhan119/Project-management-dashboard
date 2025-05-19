@@ -152,3 +152,6 @@ https://www.loom.com/share/2c02addf6aa741bdb2ca5de6cdd9ef14?sid=55c929a2-4edc-43
 ---
 
 
+## Photos
+![alt text](<Screenshot 2025-05-20 042341.png>)
+![alt text](image.png)
